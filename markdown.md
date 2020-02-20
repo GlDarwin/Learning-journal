@@ -1,9 +1,3 @@
 # markadown
-A text editor is a piece of software that you dowload and install in your computer.
-
-Choosing a text editor is a very personal choice.
-
-I don't think that it truly matter as to which text editor you use, some text editing software come with futures that other text editing software does not.
-
-But for the most part they all are pretty similar.
+Typing an @ symbol, followed by a username, will notify that person to come and view the comment. This is called an “@mention”, because you’re mentioning the individual. You can also @mention teams within an organization
 
