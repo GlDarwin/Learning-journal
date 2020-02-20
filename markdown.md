@@ -1,5 +1,5 @@
 # markadown
-A text is a piece of software that you dowload and install in your computer.
+A text editor is a piece of software that you dowload and install in your computer.
 
 Choosing a text editor is a very personal choice.
 
